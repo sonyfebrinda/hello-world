@@ -1,2 +1,3 @@
 # hello-world
-a hello world project for git hub
+starting hello world project
+this project is a dummy project
